@@ -5018,3 +5018,16 @@
 5/12/2025 | 8:21:41 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/12/2025 | 8:21:41 PM | INFO | Trying to activate mining on-chain for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
 5/12/2025 | 8:22:02 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x835e6f599ea4d02bc80e83c93deeaaf382dc49dbc35ff90463b07563ee183809 
+5/13/2025 | 1:39:22 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 1:39:22 AM | INFO | Start process for wallet 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/13/2025 | 1:39:23 AM | INFO | Trying To Login for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/13/2025 | 1:39:24 AM | INFO | Login successful... 
+5/13/2025 | 1:39:24 AM | INFO | Trying to check user info... 
+5/13/2025 | 1:39:25 AM | INFO | User ID: 102502545 | Twitter: @mnoviraa | Total Points: 1850500 
+5/13/2025 | 1:39:25 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 1:39:32 AM | INFO | Last mining time: 5/11/2025, 8:19:24 PM
+5/13/2025 | 1:39:32 AM | INFO | Trying to start Mining for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/13/2025 | 1:39:32 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/13/2025 | 1:39:32 AM | INFO | Trying to activate mining on-chain for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/13/2025 | 1:39:33 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/13/2025 | 1:39:33 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
