@@ -5562,3 +5562,15 @@
 5/22/2025 | 1:39:05 AM | INFO | Trying to activate mining on-chain for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
 5/22/2025 | 1:39:07 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x54","from":"0x227775af23463c3493cd4ac3cd5716b9ae93a323","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/22/2025 | 1:39:07 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:24:55 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:24:55 AM | INFO | Start process for wallet 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/22/2025 | 4:24:56 AM | INFO | Trying To Login for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/22/2025 | 4:24:57 AM | INFO | Login successful... 
+5/22/2025 | 4:24:57 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:24:57 AM | INFO | User ID: 102502545 | Twitter: @mnoviraa | Total Points: 2042500 
+5/22/2025 | 4:24:57 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:24:58 AM | INFO | Last mining time: 5/20/2025, 8:22:12 PM
+5/22/2025 | 4:24:58 AM | INFO | Trying to start Mining for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/22/2025 | 4:24:58 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/22/2025 | 4:24:58 AM | INFO | Trying to activate mining on-chain for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+5/22/2025 | 4:25:08 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x992a8237c11c95b442a327c43c21eaea40773d118efca630508595b03a54f6b0 
