@@ -7701,3 +7701,12 @@
 6/28/2025 | 8:20:20 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 6/28/2025 | 8:20:20 PM | INFO | Trying to activate mining on-chain for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
 6/28/2025 | 8:20:32 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x21808e22cabbb2de3c7ed29573827fda04447568d77e10b7f11a68af2fc16f3d 
+6/29/2025 | 1:51:51 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/29/2025 | 1:51:51 AM | INFO | Start process for wallet 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+6/29/2025 | 1:51:51 AM | INFO | Trying To Login for wallet: 0x227775Af23463C3493CD4Ac3CD5716B9Ae93a323 
+6/29/2025 | 1:51:52 AM | INFO | Login successful... 
+6/29/2025 | 1:51:52 AM | INFO | Trying to check user info... 
+6/29/2025 | 1:51:52 AM | INFO | User ID: 102502545 | Twitter: @mnoviraa | Total Points: 2858500 
+6/29/2025 | 1:51:52 AM | INFO | Trying to check user miner status... 
+6/29/2025 | 1:51:53 AM | INFO | Last mining time: 6/28/2025, 8:20:27 PM
+6/29/2025 | 1:51:53 AM | WARN | Mining already started, next mining time is: 6/29/2025, 8:20:27 PM
